@@ -23,7 +23,7 @@ Tool: FTK Imager 8.3.0.27, Verify Drive/Image.
 | 20200918_0347_CDrive.E01 | 58c73a9c4b223382eb7b89a5008eada3 | 8a92c0197854b3c60b121baf6c4aae276e338f9d | None | Match |
 
 ![FTK Imager verification of the desktop image](../screenshots/20200918_0417_DESKTOP-SDN1RPT-E01.png)
-![FTK Imager verification of the DC01 C drive image](E:\Cybersecurity\dfir-szechuan-sauce\screenshots\20200918_0347_CDrive-E01.png)
+![FTK Imager verification of the DC01 C drive image](../screenshots/20200918_0347_CDrive-E01.png)
 
 ## 4. Observations
 - Both images: computed hashes match the stored hashes recorded at acquisition (MD5 and SHA1).
