@@ -1,0 +1,10 @@
+   *.E01
+   *.E02
+   *.E03
+   *.E04
+   *.raw
+   *.mem
+   *.pcap
+   *.pcapng
+   *.dd
+   evidence/
